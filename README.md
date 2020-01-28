@@ -6,7 +6,7 @@ Just a small set of useful GLSL shaders for accelerated calculation of:
 - Optical Flow (Lucas Kanade method, translational model)
 
 ## Example Usage and output
-```python
+```
 python main.py --images './images'
 ```
 
