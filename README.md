@@ -3,13 +3,13 @@ Just a small set of useful GLSL shaders for accelerated calculation of:
 - Image gradient temporal
 - Image gradients spatial
 - Gaussian blur/ Box blur
-- Optical Flow (Lucas Kanade method)
+- Optical Flow (Lucas Kanade method, translational model)
 
 ## Example Usage and output
 
 python main.py --images './images'
 
-Iterate through frames by using right arrow key.
+Iterate through frames by using right arrow key. The output is displayed like in the following screenshot:
 
 ![Example output](.presentation/output.svg.png)
 
