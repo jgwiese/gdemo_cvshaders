@@ -1,4 +1,4 @@
-# Computer Vision / Image Processing Toolbox (accel.)
+# Computer Vision / Image Processing shaders
 Just a small set of useful GLSL shaders for accelerated calculation of:
 - Image gradient temporal
 - Image gradients spatial
